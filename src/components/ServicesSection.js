@@ -58,6 +58,7 @@ const ServicesSection = () => {
 const Services = styled(About)`
   h2 {
     padding-bottom: 4rem;
+    font-size: 3.3rem;
   }
   p {
     width: 70%;
